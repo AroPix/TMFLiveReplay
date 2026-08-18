@@ -14,6 +14,12 @@
           "download_link": "https://github.com/AroPix/TMFLiveReplay/releases/download/release/TMFLiveReplay.zip",
           "hash_sha256": "7c3d0db750e900e542c81cdc9d78b2708bccbf715da8c20e9b14642e35d1a143",
           "changelog": "Initial release\n"
+        },
+        "1.0.1": {
+          "executable": "TMFLiveReplay.dll",
+          "download_link": "https://github.com/AroPix/TMFLiveReplay/releases/download/pre1.1/TMFLiveReplay.zip",
+          "hash_sha256": "b8e09501e42e17d6bed3a4db7395f339fa494b50dbe973a43c8a0696c411bee3",
+          "changelog": "Bugfixes for Solo\n"
         }
       }
     }
