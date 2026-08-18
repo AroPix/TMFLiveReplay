@@ -1,0 +1,21 @@
+{
+  "api": 1,
+  "game": "TmForever",
+  "products": {
+    "TMFLiveReplay": {
+      "name": "TMFLiveReplay",
+      "author": "AroPix",
+      "type": "modification",
+      "description": "Browse and spawn TMX replays as ghosts in realtime.",
+      "homepage": "",
+      "versions": {
+        "1.0.0": {
+          "executable": "TMFLiveReplay.dll",
+          "download_link": "https://github.com/AroPix/TMFLiveReplay/releases/download/release/TMFLiveReplay.zip",
+          "hash_sha256": "d91355411a6569da70bac78924a0456ab15f3d9ccde9ba89a6d0df2e6e6844d1",
+          "changelog": "Initial release\n"
+        }
+      }
+    }
+  }
+}
