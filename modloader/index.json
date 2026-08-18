@@ -9,10 +9,10 @@
       "description": "Browse and spawn TMX replays as ghosts in realtime.",
       "homepage": "",
       "versions": {
-        "1.0.0": {
+        "1.0.1": {
           "executable": "TMFLiveReplay.dll",
           "download_link": "https://github.com/AroPix/TMFLiveReplay/releases/download/release/TMFLiveReplay.zip",
-          "hash_sha256": "d91355411a6569da70bac78924a0456ab15f3d9ccde9ba89a6d0df2e6e6844d1",
+          "hash_sha256": "fb20f01a4709e7f73d6fa70d9a9ee9c621ebc4e4a7a55c2268b44836d48b5566",
           "changelog": "Initial release\n"
         }
       }
