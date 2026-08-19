@@ -21,6 +21,12 @@
           "hash_sha256": "b8e09501e42e17d6bed3a4db7395f339fa494b50dbe973a43c8a0696c411bee3",
           "changelog": "Bugfixes for Solo\n"
         }
+        "1.0.2": {
+          "executable": "TMFLiveReplay.dll",
+          "download_link": "https://github.com/AroPix/TMFLiveReplay/releases/download/pre1.2/TMFLiveReplay.zip",
+          "hash_sha256": "513f2cab7b6d7e918931e3f00eee32035935bbcebdc3138e1cb49ccf6cfeb2b2",
+          "changelog": "- Seeking and Camera on ghosts\n- Keybinds for pad and keyboard\n- Config saving\nBig credits to cdexstra for the offsets!\n"
+        }
       }
     }
   }
