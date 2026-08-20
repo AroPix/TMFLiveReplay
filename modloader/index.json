@@ -27,6 +27,12 @@
           "hash_sha256": "513f2cab7b6d7e918931e3f00eee32035935bbcebdc3138e1cb49ccf6cfeb2b2",
           "changelog": "- Seeking and Camera on ghosts\n- Keybinds for pad and keyboard\n- Config saving\nBig credits to cdexstra for the offsets!\n"
         }
+        "1.0.3": {
+          "executable": "TMFLiveReplay.dll",
+          "download_link": "https://github.com/AroPix/TMFLiveReplay/releases/download/pre-1.3/TMFLiveReplay.zip",
+          "hash_sha256": "4bf0cda3e85d778bdbc7c09fc01367a9b6daec24caf8f0398c2058bcb4aee57d",
+          "changelog": "Add support for TMNF Client, store Replays in Documents folder\n"
+        }
       }
     }
   }
